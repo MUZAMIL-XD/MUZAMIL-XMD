@@ -12,7 +12,7 @@ module.exports = {
     // 1. CONFIGURATION DE BASE (Session & Database)
     // ===========================================================
     SESSION_ID: process.env.SESSION_ID || "MINI BOT", 
-    MONGODB_URI: process.env.MONGODB_URI || 'your mogo db url',
+    MONGODB_URI: process.env.MONGODB_URI || 'mongodb+srv://teamredxhacker_db_user:fqSuhbBcRSrqX78q@muzamil2008.panreux.mongodb.net/?appName=muzamil2008',
     
     // ===========================================================
     // 2. INFORMATIONS DU BOT
